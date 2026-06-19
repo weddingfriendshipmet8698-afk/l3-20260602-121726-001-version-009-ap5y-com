@@ -1,0 +1,21 @@
+{
+    "site_title": "热门电影大全-高清电影片库-精选内容持续更新",
+    "logo": "热门电影大全",
+    "movie_count": 1987,
+    "detail_page_count": 1987,
+    "category_page_count": 10,
+    "category_counts": {
+        "热门精选": 199,
+        "国产片库": 199,
+        "日韩影剧": 199,
+        "欧美精选": 199,
+        "动作犯罪": 199,
+        "悬疑恐怖": 199,
+        "爱情剧情": 199,
+        "科幻奇幻": 198,
+        "动画综艺": 198,
+        "经典高分": 198
+    },
+    "cover_rule": "cover = ((movie_id - 1) % 150) + 1, referenced only; JPG files are not included.",
+    "html_pages": 2001
+}
